@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 Dynamic Data Analyst with 8 years of experience in IT, application development and operational optimization. Expertise lies in data analysis, technical troubleshooting, and cross-functional collaboration, driving significant improvements in user experience and process efficiency. Proven ability to translate user requirements into actionable solutions while enhancing application performance. A solid foundation in biology and chemistry supports a methodical approach to data interpretation and problem-solving, ensuring alignment with business objectives. Committed to leveraging analytical skills to contribute to organizational success and innovation.
 
 Experience
+
 Business Analyst @ [Company], [Location] (Jan 2022 - Present)
+
 Currently focusing on the development and optimization of applications to enhance operational efficiency of automated legal processes. This role involves analyzing legal recovery requirements, troubleshooting issues, and implementing solutions that align with business objectives. Collaboration with cross-functional teams is essential to ensure the applications meet the evolving needs of the organization and its clients.
 
 Key Responsibilities:
+
     • Translated legal process into application logic and data into stories to project stakeholders.
     • End-to-end development and implementation of UAT and QA processes.
     • Leveraged Excel and advanced SQL in the development and implementation of a vital ETL pipeline.
@@ -37,7 +40,9 @@ Key Responsibilities:
     • Managing application deployments and upgrades, ensuring minimal disruption to services.
     • Providing training and support to end-users on software functionalities.
     • Performing testing and quality assurance on new application features and updates.
-    Technology Apprentice @ [Company], [Location] (May 2021 - Jun 2022)
+    
+Technology Apprentice @ [Company], [Location] (May 2021 - Jun 2022)
+
 As a Technology Apprentice at [Company], hands-on experience was gained in various aspects of technology and application development. This role provided the opportunity to learn from seasoned professionals while actively contributing to projects. Skills were honed in programming, debugging, and project management, all of which are crucial for a successful career in technology.
 
 Key Responsibilities:
@@ -50,15 +55,19 @@ Key Responsibilities:
     • Completed an internship where I assisted in troubleshooting and debugging applications, enhancing user experience.
     
 Quality Control Specialist @ [Company], [Location] (Oct 2020 - May 2021)
+
 Served as a Quality Control Specialist at [Company], responsible for ensuring that products met quality standards before reaching consumers. This role involved meticulous inspection and testing of products, as well as collaborating with production teams to identify and rectify quality issues. Strong attention to detail was crucial in maintaining high standards of quality assurance.
 
 Key Responsibilities:
+
     • Conducted routine inspections and audits of manufacturing processes to ensure adherence to quality standards.
     • Developed and implemented quality control procedures and documentation to enhance product consistency.
     • Collaborated with cross-functional teams to resolve quality issues and reduce defects by 20%.
     • Executed corrective and preventive actions (CAPA) to address non-conformance issues effectively.
     • Prepared detailed reports and presentations to communicate quality findings and recommendations to management.
+    
 Biohazardous Material Removal Technician @ [Company], [Location] (May 2019 - Oct 2020)
+
 Key Responsibilities:
 
     • Utilized personal protective equipment (PPE) and safety protocols to ensure a secure work environment.
@@ -69,12 +78,16 @@ Key Responsibilities:
     • Maintained client privacy and HIPAA compliance
 
 Solar Panel Installation Technician @ [Company], [Location] (May 2019 - July 2019)
+
+Key Responsibilities:
+
     • Installed solar PV systems on residential and commercial properties according to design specifications
     • Conducted site assessments to determine optimal solar panel placement and energy efficiency
     • Collaborated with project managers to ensure timely completion of solar installation projects
     • Performed electrical wiring and connection of solar systems to the grid
 
 Technical Support Specialist @ [Company], [Location] (Mar 2013 - Jun 2016)
+
 Key Responsibilities:
 
     • Provided technical support to customers via phone, email, and chat, resolving issues promptly and efficiently.
@@ -84,6 +97,7 @@ Key Responsibilities:
     • Maintained accurate logs of customer interactions and issues, facilitating data-driven improvements in service delivery.
     
 Emergency Medical Technician (EMT-B, Volunteer) @ [Company], [Location] (Dec 2013 - Jun 2016)
+
 Key Responsibilities:
 
     •     Certified EMT-B with 2.5+ years of experience in emergency medical response and patient care
@@ -94,11 +108,15 @@ Key Responsibilities:
     •     Worked closely with law enforcement and fire departments during emergency incidents
     
 Education
+
 B.S. Biology, Pre-Medicine, Minor in Chemistry
 [University], [Location]
+
     • Dean's List
     • Genetics, Plant Physiology and Genetic Development, Human Physiology, Computational Biology, Biochemistry
+    
 Skills
+
     • Data Pipeline/ETL Development, Implementation and Operation
     • End User Support, User Acceptance
     • Process Design, Quality Control
